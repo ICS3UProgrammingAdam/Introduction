@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\bin\Debug\SchoolAppAdam.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\bin\Debug\SchoolAppAdam.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\bin\Debug\SchoolAppAdam.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\obj\Debug\SchoolAppAdam.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\obj\Debug\SchoolAppAdam.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\obj\Debug\SchoolAppAdam.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\obj\Debug\SchoolAppAdam.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\obj\Debug\SchoolAppAdam.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\obj\Debug\SchoolAppAdam.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\SchoolAppAdam\SchoolAppAdam\obj\Debug\SchoolAppAdam.frmSchoolApp.resources
