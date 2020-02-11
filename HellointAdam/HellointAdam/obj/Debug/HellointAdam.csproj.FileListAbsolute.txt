@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\bin\Debug\HellointAdam.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\bin\Debug\HellointAdam.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\bin\Debug\HellointAdam.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\obj\Debug\HellointAdam.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\obj\Debug\HellointAdam.frm.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\obj\Debug\HellointAdam.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\obj\Debug\HellointAdam.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\obj\Debug\HellointAdam.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\obj\Debug\HellointAdam.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\HellointAdam\HellointAdam\obj\Debug\HellointAdam.pdb
