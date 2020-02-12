@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\bin\Debug\PerAreaVolAdam.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\bin\Debug\PerAreaVolAdam.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\bin\Debug\PerAreaVolAdam.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\obj\Debug\PerAreaVolAdam.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\obj\Debug\PerAreaVolAdam.frmPerAreaVol.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\obj\Debug\PerAreaVolAdam.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\obj\Debug\PerAreaVolAdam.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\obj\Debug\PerAreaVolAdam.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\obj\Debug\PerAreaVolAdam.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Introduction\PerAreaVolAdam\PerAreaVolAdam\obj\Debug\PerAreaVolAdam.pdb
